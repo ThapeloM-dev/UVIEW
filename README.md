@@ -122,3 +122,19 @@ Tech Basics(2024).How to Create a Navigation Bar using HTML and CSS | Navbar CSS
 Kevin Powell(2022).Build a responsive website with HTML & CSS | Part three: General styling.[Video].Youtube.10 July 2022.Available at: < https://www.youtube.com/watch?v=Ch_LoWKLv3A&list=PL4-IK0AVhVjNDRHoXGort7sDWcna8cGPA&index=3 > [Accessed date: 5 October 2026]
 
 Web Academy(2023).Shopping Cart Design using HTML & CSS.[Video].YouTube.15 February2023.Available at: < https://www.youtube.com/watch?v=cUuWjG1Yros > [Accessed date:5 October 2026]
+
+Dani Krossing.2017.How to Always Keep the Footer at the Bottom of A Page | Learn HTML and CSS | HTML Tutorial.7 April 2017.Avialable at:<https://www.youtube.com/watch?v=qlCIXXhSX6Y> [Accessed Date:6 November 2026]
+
+dcode.2021.How to add a lighbox to your website - HTML, CSS & JavaScript Beginner's Tutorial.22 july 2021.Avialable at:<https://www.youtube.com/watch?v=dylA5Onz3kI&t=267s> [Accessed date: 6 November 2026]
+
+W3School.How TO - Lightbox.Avialable at: <https://www.w3schools.com/howto/howto_js_lightbox.asp> [Accessed date:6 November 20226]
+
+W3School.How TO - CSS/JS Modal.Avialable at: <https://www.w3schools.com/howto/howto_css_modals.asp#gsc.tab=0> [Accessed date:7 November 20226]
+
+Codehal(2025).How To Create Add To Cart Shopping Using HTML CSS And JavaScript | Shopping Cart In JavaScript. 6 january 2025.Available at:<https://www.youtube.com/watch?v=u_iQn0hvrac>[Accessed date:9 November2026]
+
+GreatStack(2023).How To Create Working Contact Form Using HTML & CSS | Receive Contact Form Data on Email.28 December 2023.Available at:<https://www.youtube.com/watch?v=-HeadgoqJ7A> [Accessed date: 9 November 2026]
+
+The Independent Institute of Education(IIE).2026.Web Development (Introduction).WEDE5020 Module Manual. Avaialable at:<https://advtechonline.sharepoint.com/:w:/r/sites/TertiaryStudents/_layouts/15/Doc.aspx?sourcedoc=%7BCCB67D67-54C6-4B72-871F-CF8C5B954C6A%7D&file=WEDE5020MM.docx&action=default&mobileredirect=true&share=cQpnfbbMxlRyS4cfz4xblUxqEgUCLNe9ab-zGeOYpowFzi1Buw> [Accessed date:9 November 2026 ]
+
+
