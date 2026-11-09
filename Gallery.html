@@ -1,0 +1,96 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="keywords" content="custom PC builder, prebuilt gaming PC, computer components, UVIE, desktop rigs, graphics cards, RAM upgrades, South Africa">
+    <meta name="robots" content="index, follow">
+    <meta name="Matsebe" content="UVIE Web Development Team">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>UVIE Gallery | Gaming PCs, Graphics Cards & Processors</title>
+    <link rel="stylesheet" href="../CSS Folder/Page.css">
+    <link rel="stylesheet" href="../CSS Folder/Gallery.css">
+    <link rel="stylesheet" href="../CSS Folder/Format.css">
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/remixicon@4.9.0/fonts/remixicon.css">
+    <script defer src="../Website/lightbox/lightbox.js"></script>
+</head>
+<body>
+      <header>
+        <nav class="navbar">
+            <div class="nav-container">
+                <a href="index.html" class="brand" aria-label="UVIEW home">
+                    <img src="../Images/Logo/UVIEW.png" alt="UVIEW logo">
+                </a>
+                <ul class="nav-links">
+                    <li><a href="index.html">Home</a></li>
+                    <li><a href="AboutUs.html">About Us</a></li>
+                    <li><a href="ProductPage.html">Products</a></li>
+                    <li><a href="Gallery.html" class="active" aria-current="page">Gallery</a></li>
+                    <li><a href="Contact.html">Contact Us</a></li>
+                    <li><a href="Whishlist.html">Wishlist</a></li>
+                      <li><div id="cart-icon">
+                        <i class="ri-shopping-cart-line add-cart" aria-label="Add to cart" style ="font-size:medium"></i>   
+                        <span class="cart-item-count"></span>    
+                        </div>
+                    </li>
+                </ul>
+            </div>
+        </nav>
+    </header>
+
+        <!-- Images used to open the lightbox -->
+<main class="gallery-container">
+  <img src="../Images/Custome KeyBoard.jpg" alt="Custom keyboard" class ="gallery-item">
+  <img src="../Images/Custome Keyboard2.webp" alt="Custom keyboard 2" class ="gallery-item">
+  <img src="../Images/Custome keyboard3.webp" alt="Custom keyboard 3" class ="gallery-item">
+  <img src="../Images/REdDragonKeyboard.jpg" alt="Red Dragon keyboard" class ="gallery-item">
+  <img src="../Images/Laptop 1.jpg" alt=" laptop" class ="gallery-item"> 
+  
+</main>
+
+<!-- The Modal/Lightbox -->
+<div id="lightbox" class="lightbox">
+    <div class="lightbox__inner">
+      <button class="lightbox__close" id="lightbox-close">&times;</button>
+      <img id ="lightbox-img" alt="Expanded View" class="lightbox__image">
+    </div>
+</div>
+
+    <!-- Next/previous controls -->
+    <a class="prev" onclick="plusSlides(-1)">&#10094;</a>
+    <a class="next" onclick="plusSlides(1)">&#10095;</a>
+
+    <!-- Caption text -->
+    <div class="caption-container">
+      <p id="caption"></p>
+    </div>
+
+
+    <footer>
+        <p class = "footer-text">&copy; 2026 UVIEW. All rights reserved.</p>
+        <p>
+            <script>
+                var thedate = new Date()
+                document.write("&copy; "+  thedate.getFullYear())
+                document.write("Last Modified: " + document.lastModified);
+                var themodifiedDate=new Date(document.lastModified);
+                document.write("Last Modified: " + themodifiedDate.toLocaleString());
+            </script>
+            <br> Powered by <a href="https://www.w3schools.com/" target="_blank" rel="noopener noreferrer">W3Schools</a>
+        </p>
+    </footer>
+</body>
+</html>
+<!-- Reference list -->
+<!--
+Dani Krossing.2017.How to Always Keep the Footer at the Bottom of A Page | Learn HTML and CSS | HTML Tutorial.7 April 2017.Avialable at:<https://www.youtube.com/watch?v=qlCIXXhSX6Y> [Accessed Date:6 November 2026]
+
+dcode.2021.How to add a lighbox to your website - HTML, CSS & JavaScript Beginner's Tutorial.22 july 2021.Avialable at:<https://www.youtube.com/watch?v=dylA5Onz3kI&t=267s> [Accessed date: 6 November 2026]
+
+W3School.How TO - Lightbox.Avialable at: <https://www.w3schools.com/howto/howto_js_lightbox.asp> [Accessed date:6 November 20226]
+
+W3School.How TO - CSS/JS Modal.Avialable at: <https://www.w3schools.com/howto/howto_css_modals.asp#gsc.tab=0> [Accessed date:7 November 20226]
+
+Codehal(2025).How To Create Add To Cart Shopping Using HTML CSS And JavaScript | Shopping Cart In JavaScript. 6 january 2025.Available at:<https://www.youtube.com/watch?v=u_iQn0hvrac>[Accessed date:9 November2026]
+
+GreatStack(2023).How To Create Working Contact Form Using HTML & CSS | Receive Contact Form Data on Email.28 December 2023.Available at:<https://www.youtube.com/watch?v=-HeadgoqJ7A> [Accessed date: 9 November 2026]
+-->
